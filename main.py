@@ -3,10 +3,11 @@ from github import Github
 
 from github import Github, BadCredentialsException, UnknownObjectException
 
+usrname = 'вбей свои данные хуесос'
 access_token = 'вбей свои данные хуесос'
 
 original_repo_name = 'torvalds/linux'
-your_fork_name = 'lap-does-things/linux'
+your_fork_name = usrname+'/linux'
 branch_name = 'goida'
 base_branch = 'master'  
 file_path = 'README'  
