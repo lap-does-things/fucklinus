@@ -26,6 +26,13 @@ RU : Так как пара мейнтейнеров из РФ были кикн
 git clone https://github.com/lap-does-things/fucklinus
 ```
 
+2.1 Install dependencies
+Установите зависимости
+
+```
+pip install -r requirements.txt
+```
+
 3. Generate an access token and fill out your credentials
 Сгененируйте токен доступа и заполните данные
 
