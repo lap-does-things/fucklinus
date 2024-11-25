@@ -41,5 +41,5 @@ usrname = 'вбей свои данные хуесос' # Username \\ Юзерн
 access_token = 'вбей свои данные хуесос' #access token \\ Токен Доступа
 ```
 
-5. Let it rip
+5. Let it rip <br>
 Запускайте
