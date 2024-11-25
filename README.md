@@ -26,7 +26,7 @@ RU : Так как пара мейнтейнеров из РФ были кикн
 git clone https://github.com/lap-does-things/fucklinus
 ```
 
-3 Install dependencies <br>
+3. Install dependencies <br>
 Установите зависимости
 
 ```
