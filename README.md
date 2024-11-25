@@ -19,21 +19,21 @@ RU : Так как пара мейнтейнеров из РФ были кикн
 1. Create an alt. **You might get banned because of it**  
 Создайте твинк. **Вас могут за это забанить**
 
-2. Clone the repo.
+2. Clone the repo. <br>
 Клонируйте репозиторий
 
 ```
 git clone https://github.com/lap-does-things/fucklinus
 ```
 
-2.1 Install dependencies
+2.1 Install dependencies <br>
 Установите зависимости
 
 ```
 pip install -r requirements.txt
 ```
 
-3. Generate an access token and fill out your credentials
+3. Generate an access token and fill out your credentials <br>
 Сгененируйте токен доступа и заполните данные
 
 ```
